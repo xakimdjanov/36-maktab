@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <circle cx="50" cy="50" r="48" fill="#163A5F" stroke="#D6AE57" stroke-width="3"/>
+  <circle cx="50" cy="50" r="42" fill="#163A5F" stroke="#D6AE57" stroke-width="1" stroke-dasharray="2 2"/>
+  <!-- Open Book -->
+  <path d="M50 64V38C50 38 43 34 32 34C24 34 20 37 20 37V63C20 63 25 60 33 60C42 60 50 64 50 64Z" fill="#FFFFFF" fill-opacity="0.95"/>
+  <path d="M50 64V38C50 38 57 34 68 34C76 34 80 37 80 37V63C80 63 75 60 67 60C58 60 50 64 50 64Z" fill="#FFFFFF" fill-opacity="0.95"/>
+  <!-- Central spine line -->
+  <path d="M50 38V64" stroke="#D6AE57" stroke-width="2"/>
+  <!-- Star / Torch -->
+  <path d="M50 22L52 28L58 29L53 33L55 39L50 35L45 39L47 33L42 29L48 28L50 22Z" fill="#D6AE57"/>
+  <!-- School 36 text -->
+  <text x="50" y="77" fill="#D6AE57" font-family="'Plus Jakarta Sans', sans-serif" font-size="11" font-weight="800" text-anchor="middle" letter-spacing="1">36-MAKTAB</text>
+  <text x="50" y="86" fill="#FFFFFF" font-family="'Plus Jakarta Sans', sans-serif" font-size="6.5" font-weight="600" text-anchor="middle" letter-spacing="1.5">NAMANGAN</text>
+</svg>

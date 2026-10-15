@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://namangan36-maktab.uz/sitemap.xml
